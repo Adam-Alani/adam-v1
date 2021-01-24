@@ -17,7 +17,7 @@
 
 <main class=" flex flex-1 flex-col justify-center bg-white   ">
     <div class="py-16 mb-12  text-bgblue font-extrabold text-4xl md:text-5xl lg:text-6xl flex justify-center items-center">
-        <h1 class="">Github Projects</h1>
+        <h1 class="select-none">Github Projects</h1>
     </div>
     <div class="flex-col flex flex-1 items-center justify-center ">
         {#await asyncFunc() then data}
@@ -25,17 +25,17 @@
                     {#each data as repo, i}
                         {#if (i > 0 && repo.language !== null)}
                         <div class="">
-                            <div class="w-96 h-48 shadow-md rounded-3xl bg-buttonblue flex flex-col flex-1 mx-4 my-4 flex-wrap " >
+                            <div class="w-96 h-48 shadow-md rounded-3xl bg-buttonblue flex flex-col flex-1 mx-4 my-4 flex-wrap transition duration-500 ease-in-out transform  hover:scale-110" >
                                 <div class="flex-grow">
                                     <div class="">
-                                        <h1 class="font-semibold mt-4 mx-8 text-2xl ">{(data[i].name)}</h1>
-                                        <p class="font-medium px-8 mt-4  text-base">{(repo.description)}</p>
+                                        <h1 class="font-semibold mt-4 mx-8 text-2xl select-none ">{(data[i].name)}</h1>
+                                        <p class="font-medium px-8 mt-4  text-base select-none">{(repo.description)}</p>
                                     </div>
                                 </div>
                                 <div class="flex-none mb-2">
                                     {#if ( repo.language !== "C#")}
                                         <div class="mx-8 bg-{repo.language} inline-block rounded ">
-                                            <h1 class="mx-4 my-1  ">{repo.language}</h1>
+                                            <h1 class="mx-4 my-1 select-none ">{repo.language}</h1>
                                         </div>
                                         <a href={repo.html_url} target="_blank">
                                         <img src="images/logos/github.png" class="float-right mr-5" width="28px" height="auto"/>

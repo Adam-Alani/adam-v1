@@ -60,7 +60,7 @@
 </style>
 
 
-<main class="h-screen bg-bgblue flex-col text-whiteblue w-full h-full ">
+<main class="h-screen bg-bgblue flex-col text-whiteblue w-full h-full select-none ">
 
 
     <div class="absolute h-72 w-72 pos1 text-gray-500  bg-blue-900 rounded-full blurred ">
@@ -81,9 +81,9 @@
             <div class="flex xl:hidden  flex-1 justify-center items-center  ">
                 <h1 class="text-3xl md:text-5xl lg:text-7xl font-extrabold mb-5 textreveal">Here's what I can do.</h1>
             </div>
-            <div class="flex-row flex">
+            <div class="flex-row flex ">
 
-                <div class=" w-56 h-16 lg:w-64 lg:h-24     shadow rounded-xl backdrop-blur cc  flex items-center ml-4 my-4 boxreveal ">
+                <div class=" w-56 h-16 lg:w-64 lg:h-24   shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal  ">
                     <img src="images/logos/js.png" height="auto" width="56px" class="rounded-xl ml-2"/>
                     <h1 class="font-bold text-xl ml-4">Javascript</h1>
                 </div>

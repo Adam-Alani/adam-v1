@@ -44,6 +44,7 @@ module.exports = {
   variants: {
     filter: ['responsive'], // defaults to ['responsive']
     backdropFilter: ['responsive'], // defaults to ['responsive']
+    animate: ['hover']
   },
   plugins: [
       require('tailwindcss-filters'),
