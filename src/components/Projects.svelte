@@ -11,17 +11,16 @@
 <Tailwindcss />
 
 <style>
-
 </style>
 
 
-<main class=" flex flex-1 flex-col justify-center bg-white   ">
-    <div class="py-16 mb-12  text-bgblue font-extrabold text-4xl md:text-5xl lg:text-6xl flex justify-center items-center">
-        <h1 class="select-none">Github Projects</h1>
+<main class=" flex flex-1 flex-col justify-center bg-white ">
+    <div class="py-16 mb-12  text-bgblue font-extrabold text-4xl md:text-5xl lg:text-6xl flex justify-center items-center ">
+        <h1 class="select-none  ">Github Projects</h1>
     </div>
     <div class="flex-col flex flex-1 items-center justify-center ">
         {#await asyncFunc() then data}
-                <div class="grid grid-cols-1 lg:grid-cols-2  xl:grid-cols-3 ">
+                <div class="grid grid-cols-1 lg:grid-cols-2  xl:grid-cols-3  ">
                     {#each data as repo, i}
                         {#if (i > 0 && repo.language !== null)}
                         <div class="">

@@ -83,13 +83,13 @@
             </div>
             <div class="flex-row flex ">
 
-                <div class=" w-56 h-16 lg:w-64 lg:h-24   shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal  ">
+                <div class=" w-48 h-16 lg:w-64 lg:h-24   shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal  ">
                     <img src="images/logos/js.png" height="auto" width="56px" class="rounded-xl ml-2"/>
                     <h1 class="font-bold text-xl ml-4">Javascript</h1>
                 </div>
 
 
-                <div class=" w-56 h-16 lg:w-64 lg:h-24 shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal">
+                <div class=" w-48 h-16 lg:w-64 lg:h-24 shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal">
                         <img src="images/logos/html5.png" height="auto" width="56px" class="rounded-xl ml-2"/>
                         <h1 class="font-bold text-xl ml-2">HTML5</h1>
                 </div>
@@ -103,13 +103,13 @@
 
             <div class="flex-row flex">
 
-                <div class="w-56 h-16 lg:w-64 lg:h-24 shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal">
+                <div class="w-48 h-16 lg:w-64 lg:h-24 shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal">
                     <img src="images/logos/gopher.png" height="auto" width="56px" class="rounded-xl ml-2"/>
                     <h1 class="font-bold text-xl ml-4">Go</h1>
                 </div>
 
 
-                <div class="w-56 h-16 lg:w-64 lg:h-24 shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal">
+                <div class="w-48 h-16 lg:w-64 lg:h-24 shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal">
                     <img src="images/logos/svelte.png" height="auto" width="56px" class="rounded-xl ml-2"/>
                     <h1 class="font-bold text-xl ml-2">Svelte</h1>
                 </div>
@@ -123,13 +123,13 @@
 
             <div class="flex-row flex">
 
-                <div class="w-56 h-16 lg:w-64 lg:h-24 shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal">
+                <div class="w-48 h-16 lg:w-64 lg:h-24 shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal">
                     <img src="images/logos/tailwind.png" height="auto" width="56px" class="rounded-xl ml-2"/>
                     <h1 class="font-bold text-xl ml-4">Tailwind</h1>
                 </div>
 
 
-                <div class="w-56 h-16 lg:w-64 lg:h-24  shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal">
+                <div class="w-48 h-16 lg:w-64 lg:h-24  shadow rounded-xl backdrop-blur cc  flex items-center ml-2 my-4 boxreveal">
                     <img src="images/logos/python.png" height="auto" width="56px" class="rounded-xl ml-2"/>
                     <h1 class="font-bold text-xl ml-2">Python</h1>
                 </div>
