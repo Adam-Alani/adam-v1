@@ -30,7 +30,6 @@
   },
   "dependencies": {
     "@octokit/rest": "^18.0.14",
-    "dotenv": "^8.2.0",
     "rollup-plugin-css-only": "^3.0.0",
     "scrollreveal": "^4.0.7",
     "sirv-cli": "^1.0.0",
