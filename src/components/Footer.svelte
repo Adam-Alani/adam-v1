@@ -35,7 +35,7 @@
 </style>
 
 
-<main class=" bg-bgblue text-white mt-16">
+<main class=" bg-bgblue text-white mt-16 ">
 
     <div class="flex flex-row justify-around">
         <div class="flex-1 mt-8">

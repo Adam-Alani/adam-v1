@@ -1,5 +1,5 @@
 
-(function(l, r) { if (l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (window.location.host || 'localhost').split(':')[0] + ':35730/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(window.document);
+(function(l, r) { if (l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (window.location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(window.document);
 var app = (function () {
     'use strict';
 
@@ -6762,114 +6762,114 @@ var app = (function () {
     			span4 = element("span");
     			span4.textContent = "Adam-Alani";
     			attr_dev(h10, "class", "z-20");
-    			add_location(h10, file$4, 37, 20, 771);
+    			add_location(h10, file$4, 37, 20, 772);
     			attr_dev(div0, "class", "py-8 mb-12  text-whiteblue font-extrabold text-3xl md:text-4xl lg:text-5xl");
-    			add_location(div0, file$4, 36, 16, 661);
+    			add_location(div0, file$4, 36, 16, 662);
     			attr_dev(div1, "class", "flex justify-center items-center");
-    			add_location(div1, file$4, 35, 12, 597);
+    			add_location(div1, file$4, 35, 12, 598);
     			attr_dev(a0, "href", "mailto:adamalany@gmail.com");
     			attr_dev(a0, "class", "mx-5 bg-green-600 rounded-3xl py-2 px-6 text-3xl");
-    			add_location(a0, file$4, 43, 24, 1033);
+    			add_location(a0, file$4, 43, 24, 1034);
     			attr_dev(div2, "class", "flex-1 flex justify-center items-center");
-    			add_location(div2, file$4, 42, 16, 954);
+    			add_location(div2, file$4, 42, 16, 955);
     			attr_dev(div3, "class", "flex-1 flex items-center justify-around z-30 text-2xl pb-24  ");
-    			add_location(div3, file$4, 41, 12, 861);
+    			add_location(div3, file$4, 41, 12, 862);
     			attr_dev(div4, "class", "flex-1 mt-8");
-    			add_location(div4, file$4, 34, 8, 558);
+    			add_location(div4, file$4, 34, 8, 559);
     			attr_dev(h11, "class", "z-20");
-    			add_location(h11, file$4, 53, 20, 1483);
+    			add_location(h11, file$4, 53, 20, 1484);
     			attr_dev(div5, "class", "py-8 mb-12  text-whiteblue font-extrabold text-3xl md:text-4xl lg:text-5xl");
-    			add_location(div5, file$4, 52, 16, 1373);
+    			add_location(div5, file$4, 52, 16, 1374);
     			attr_dev(div6, "class", "flex justify-center items-center");
-    			add_location(div6, file$4, 51, 12, 1309);
+    			add_location(div6, file$4, 51, 12, 1310);
     			attr_dev(path0, "d", "M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z");
-    			add_location(path0, file$4, 63, 28, 2003);
+    			add_location(path0, file$4, 63, 28, 2004);
     			attr_dev(path1, "d", "M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z");
-    			add_location(path1, file$4, 64, 28, 2115);
+    			add_location(path1, file$4, 64, 28, 2116);
     			attr_dev(svg0, "xmlns", "http://www.w3.org/2000/svg");
     			attr_dev(svg0, "viewBox", "0 0 20 20");
     			attr_dev(svg0, "fill", "currentColor");
     			attr_dev(svg0, "width", "24");
     			attr_dev(svg0, "height", "auto");
     			attr_dev(svg0, "class", "inline-block mr-4");
-    			add_location(svg0, file$4, 62, 24, 1842);
+    			add_location(svg0, file$4, 62, 24, 1843);
     			attr_dev(span0, "class", "inline-block");
-    			add_location(span0, file$4, 66, 24, 2240);
+    			add_location(span0, file$4, 66, 24, 2241);
     			attr_dev(a1, "href", "mailto:adamalany@gmail.com");
     			attr_dev(a1, "class", "mx-5 py-2 text-2xl");
     			attr_dev(a1, "target", "_blank");
-    			add_location(a1, file$4, 61, 20, 1736);
+    			add_location(a1, file$4, 61, 20, 1737);
     			attr_dev(path2, "d", "M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z");
-    			add_location(path2, file$4, 73, 167, 2605);
+    			add_location(path2, file$4, 73, 167, 2606);
     			attr_dev(svg1, "xmlns", "http://www.w3.org/2000/svg");
     			attr_dev(svg1, "width", "24");
     			attr_dev(svg1, "height", "24");
     			attr_dev(svg1, "fill", "currentColor");
     			attr_dev(svg1, "class", "bi bi-twitter inline-block mr-4");
     			attr_dev(svg1, "viewBox", "0 0 16 16");
-    			add_location(svg1, file$4, 73, 24, 2462);
+    			add_location(svg1, file$4, 73, 24, 2463);
     			attr_dev(span1, "class", "inline-block");
-    			add_location(span1, file$4, 74, 24, 3142);
+    			add_location(span1, file$4, 74, 24, 3143);
     			attr_dev(a2, "href", "https://twitter.com/unebrosseadam");
     			attr_dev(a2, "class", "mx-5 py-2 text-2xl");
     			attr_dev(a2, "target", "_blank");
-    			add_location(a2, file$4, 72, 20, 2349);
+    			add_location(a2, file$4, 72, 20, 2350);
     			attr_dev(path3, "d", "M6.552 6.712c-.456 0-.816.4-.816.888s.368.888.816.888c.456 0 .816-.4.816-.888.008-.488-.36-.888-.816-.888zm2.92 0c-.456 0-.816.4-.816.888s.368.888.816.888c.456 0 .816-.4.816-.888s-.36-.888-.816-.888z");
-    			add_location(path3, file$4, 79, 167, 3465);
+    			add_location(path3, file$4, 79, 167, 3466);
     			attr_dev(path4, "d", "M13.36 0H2.64C1.736 0 1 .736 1 1.648v10.816c0 .912.736 1.648 1.64 1.648h9.072l-.424-1.48 1.024.952.968.896L15 16V1.648C15 .736 14.264 0 13.36 0zm-3.088 10.448s-.288-.344-.528-.648c1.048-.296 1.448-.952 1.448-.952-.328.216-.64.368-.92.472-.4.168-.784.28-1.16.344a5.604 5.604 0 0 1-2.072-.008 6.716 6.716 0 0 1-1.176-.344 4.688 4.688 0 0 1-.584-.272c-.024-.016-.048-.024-.072-.04-.016-.008-.024-.016-.032-.024-.144-.08-.224-.136-.224-.136s.384.64 1.4.944c-.24.304-.536.664-.536.664-1.768-.056-2.44-1.216-2.44-1.216 0-2.576 1.152-4.664 1.152-4.664 1.152-.864 2.248-.84 2.248-.84l.08.096c-1.44.416-2.104 1.048-2.104 1.048s.176-.096.472-.232c.856-.376 1.536-.48 1.816-.504.048-.008.088-.016.136-.016a6.521 6.521 0 0 1 4.024.752s-.632-.6-1.992-1.016l.112-.128s1.096-.024 2.248.84c0 0 1.152 2.088 1.152 4.664 0 0-.68 1.16-2.448 1.216z");
-    			add_location(path4, file$4, 79, 378, 3676);
+    			add_location(path4, file$4, 79, 378, 3677);
     			attr_dev(svg2, "xmlns", "http://www.w3.org/2000/svg");
     			attr_dev(svg2, "width", "24");
     			attr_dev(svg2, "height", "24");
     			attr_dev(svg2, "fill", "currentColor");
     			attr_dev(svg2, "class", "bi bi-discord inline-block mr-4");
     			attr_dev(svg2, "viewBox", "0 0 16 16");
-    			add_location(svg2, file$4, 79, 24, 3322);
+    			add_location(svg2, file$4, 79, 24, 3323);
     			attr_dev(span2, "class", "inline-block");
-    			add_location(span2, file$4, 80, 24, 4547);
+    			add_location(span2, file$4, 80, 24, 4548);
     			attr_dev(a3, "href", "#");
     			attr_dev(a3, "class", "mx-5 py-2 text-2xl");
     			attr_dev(a3, "target", "_blank");
-    			add_location(a3, file$4, 78, 20, 3241);
+    			add_location(a3, file$4, 78, 20, 3242);
     			attr_dev(path5, "d", "M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z");
-    			add_location(path5, file$4, 84, 168, 4913);
+    			add_location(path5, file$4, 84, 168, 4914);
     			attr_dev(svg3, "xmlns", "http://www.w3.org/2000/svg");
     			attr_dev(svg3, "width", "24");
     			attr_dev(svg3, "height", "24");
     			attr_dev(svg3, "fill", "currentColor");
     			attr_dev(svg3, "class", "bi bi-linkedin inline-block mr-4");
     			attr_dev(svg3, "viewBox", "0 0 16 16");
-    			add_location(svg3, file$4, 84, 24, 4769);
+    			add_location(svg3, file$4, 84, 24, 4770);
     			attr_dev(span3, "class", "inline-block");
-    			add_location(span3, file$4, 85, 24, 5520);
+    			add_location(span3, file$4, 85, 24, 5521);
     			attr_dev(a4, "href", "https://www.linkedin.com/in/adam-alani-8a164b1b0/");
     			attr_dev(a4, "class", "mx-5 py-2 text-2xl");
     			attr_dev(a4, "target", "_blank");
-    			add_location(a4, file$4, 83, 20, 4640);
+    			add_location(a4, file$4, 83, 20, 4641);
     			attr_dev(path6, "d", "M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z");
-    			add_location(path6, file$4, 89, 166, 5865);
+    			add_location(path6, file$4, 89, 166, 5866);
     			attr_dev(svg4, "xmlns", "http://www.w3.org/2000/svg");
     			attr_dev(svg4, "width", "24");
     			attr_dev(svg4, "height", "24");
     			attr_dev(svg4, "fill", "currentColor");
     			attr_dev(svg4, "class", "bi bi-github inline-block mr-4");
     			attr_dev(svg4, "viewBox", "0 0 16 16");
-    			add_location(svg4, file$4, 89, 24, 5723);
+    			add_location(svg4, file$4, 89, 24, 5724);
     			attr_dev(span4, "class", "inline-block");
-    			add_location(span4, file$4, 90, 25, 6480);
+    			add_location(span4, file$4, 90, 25, 6481);
     			attr_dev(a5, "href", "https://github.com/Adam-Alani");
     			attr_dev(a5, "class", "mx-5 py-2 text-2xl");
     			attr_dev(a5, "target", "_blank");
-    			add_location(a5, file$4, 88, 20, 5614);
+    			add_location(a5, file$4, 88, 20, 5615);
     			attr_dev(div7, "class", "flex-initial flex flex-col");
-    			add_location(div7, file$4, 58, 16, 1670);
+    			add_location(div7, file$4, 58, 16, 1671);
     			attr_dev(div8, "class", "flex-1 flex items-center justify-around z-30 text-2xl pb-24  ");
-    			add_location(div8, file$4, 57, 12, 1577);
+    			add_location(div8, file$4, 57, 12, 1578);
     			attr_dev(div9, "class", "flex-1 mt-8");
-    			add_location(div9, file$4, 50, 8, 1270);
+    			add_location(div9, file$4, 50, 8, 1271);
     			attr_dev(div10, "class", "flex flex-row justify-around");
-    			add_location(div10, file$4, 33, 4, 506);
-    			attr_dev(main, "class", " bg-bgblue text-white mt-16");
+    			add_location(div10, file$4, 33, 4, 507);
+    			attr_dev(main, "class", " bg-bgblue text-white mt-16 ");
     			add_location(main, file$4, 31, 0, 456);
     		},
     		l: function claim(nodes) {
@@ -7026,10 +7026,13 @@ var app = (function () {
     	let t13;
     	let home;
     	let t14;
+    	let div12;
     	let about;
     	let t15;
+    	let div13;
     	let recent;
     	let t16;
+    	let div14;
     	let projects;
     	let t17;
     	let footer;
@@ -7070,7 +7073,7 @@ var app = (function () {
     			t7 = space();
     			div5 = element("div");
     			a3 = element("a");
-    			a3.textContent = "Services";
+    			a3.textContent = "Recent";
     			t9 = space();
     			div6 = element("div");
     			a4 = element("a");
@@ -7082,56 +7085,64 @@ var app = (function () {
     			t13 = space();
     			create_component(home.$$.fragment);
     			t14 = space();
+    			div12 = element("div");
     			create_component(about.$$.fragment);
     			t15 = space();
+    			div13 = element("div");
     			create_component(recent.$$.fragment);
     			t16 = space();
+    			div14 = element("div");
     			create_component(projects.$$.fragment);
     			t17 = space();
     			create_component(footer.$$.fragment);
     			attr_dev(a0, "href", "#");
     			attr_dev(a0, "class", " font-bold text-2xl  hover:text-highlightblue");
-    			add_location(a0, file$5, 18, 34, 748);
+    			add_location(a0, file$5, 20, 34, 809);
     			attr_dev(div0, "class", "");
-    			add_location(div0, file$5, 18, 20, 734);
+    			add_location(div0, file$5, 20, 20, 795);
     			attr_dev(div1, "class", "ml-6 leading-none");
-    			add_location(div1, file$5, 17, 16, 682);
-    			attr_dev(div2, "class", "flex items-center hidden sm:flex ");
-    			add_location(div2, file$5, 16, 12, 618);
-    			attr_dev(a1, "href", "#");
-    			attr_dev(a1, "class", "");
-    			add_location(a1, file$5, 24, 55, 1077);
+    			add_location(div1, file$5, 19, 16, 743);
+    			attr_dev(div2, "class", "flex items-center hidden sm:flex flex-1 items-center justify-center  ");
+    			add_location(div2, file$5, 18, 12, 643);
+    			attr_dev(a1, "href", "#home");
+    			add_location(a1, file$5, 26, 55, 1166);
     			attr_dev(div3, "class", "mx-3 hover:text-white");
-    			add_location(div3, file$5, 24, 20, 1042);
-    			attr_dev(a2, "href", "#");
-    			add_location(a2, file$5, 25, 55, 1168);
+    			add_location(div3, file$5, 26, 20, 1131);
+    			attr_dev(a2, "href", "#about");
+    			add_location(a2, file$5, 27, 55, 1251);
     			attr_dev(div4, "class", "mx-3 hover:text-white");
-    			add_location(div4, file$5, 25, 20, 1133);
-    			attr_dev(a3, "href", "#");
-    			add_location(a3, file$5, 26, 55, 1251);
+    			add_location(div4, file$5, 27, 20, 1216);
+    			attr_dev(a3, "href", "#recent");
+    			add_location(a3, file$5, 28, 55, 1339);
     			attr_dev(div5, "class", "mx-3 hover:text-white");
-    			add_location(div5, file$5, 26, 20, 1216);
-    			attr_dev(a4, "href", "#");
-    			add_location(a4, file$5, 27, 55, 1337);
+    			add_location(div5, file$5, 28, 20, 1304);
+    			attr_dev(a4, "href", "#project");
+    			add_location(a4, file$5, 29, 55, 1429);
     			attr_dev(div6, "class", "mx-3 hover:text-white");
-    			add_location(div6, file$5, 27, 20, 1302);
-    			attr_dev(div7, "class", "flex items-center justify-center max-w-full text-bgblue");
-    			add_location(div7, file$5, 23, 16, 952);
-    			attr_dev(div8, "class", "flex flex-col justify-center text-2xl");
-    			add_location(div8, file$5, 22, 12, 884);
+    			add_location(div6, file$5, 29, 20, 1394);
+    			attr_dev(div7, "class", "flex flex-1 items-center justify-center max-w-full text-bgblue");
+    			add_location(div7, file$5, 25, 16, 1034);
+    			attr_dev(div8, "class", "flex flex-1 flex-col justify-center  items-center text-2xl");
+    			add_location(div8, file$5, 24, 12, 945);
     			attr_dev(a5, "href", "mailto:adamalany@gmail.com");
     			attr_dev(a5, "class", "mx-2 text-xl bg-gradient-to-b from-darkgblue to-bgblue font-semibold rounded-full py-2 px-10 shadow text-white");
-    			add_location(a5, file$5, 32, 16, 1498);
-    			attr_dev(div9, "class", " items-center justify-center hidden sm:flex ");
-    			add_location(div9, file$5, 31, 12, 1423);
-    			attr_dev(div10, "class", "flex-none h-22 px-5 flex items-center justify-around pt-5 ");
-    			add_location(div10, file$5, 15, 8, 533);
+    			add_location(a5, file$5, 34, 16, 1606);
+    			attr_dev(div9, "class", " hidden sm:flex  flex-1 items-center justify-center  ");
+    			add_location(div9, file$5, 33, 12, 1522);
+    			attr_dev(div10, "class", "flex-none h-22 px-5 flex items-center justify-around pt-5  ");
+    			add_location(div10, file$5, 17, 8, 557);
     			attr_dev(nav, "class", "flex-initial");
-    			add_location(nav, file$5, 14, 4, 498);
+    			add_location(nav, file$5, 15, 4, 521);
     			attr_dev(div11, "class", "bg-gradient-to-tl from-gradienttop to-whiteblue ");
-    			add_location(div11, file$5, 13, 4, 431);
-    			attr_dev(main, "class", "");
-    			add_location(main, file$5, 11, 0, 410);
+    			add_location(div11, file$5, 14, 4, 454);
+    			attr_dev(div12, "id", "about");
+    			add_location(div12, file$5, 44, 4, 1886);
+    			attr_dev(div13, "id", "recent");
+    			add_location(div13, file$5, 48, 4, 1932);
+    			attr_dev(div14, "id", "project");
+    			add_location(div14, file$5, 51, 4, 1979);
+    			attr_dev(main, "id", "home");
+    			add_location(main, file$5, 12, 0, 432);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -7169,11 +7180,14 @@ var app = (function () {
     			append_dev(div11, t13);
     			mount_component(home, div11, null);
     			append_dev(main, t14);
-    			mount_component(about, main, null);
+    			append_dev(main, div12);
+    			mount_component(about, div12, null);
     			append_dev(main, t15);
-    			mount_component(recent, main, null);
+    			append_dev(main, div13);
+    			mount_component(recent, div13, null);
     			append_dev(main, t16);
-    			mount_component(projects, main, null);
+    			append_dev(main, div14);
+    			mount_component(projects, div14, null);
     			append_dev(main, t17);
     			mount_component(footer, main, null);
     			current = true;
@@ -7228,11 +7242,16 @@ var app = (function () {
     function instance$8($$self, $$props, $$invalidate) {
     	let { $$slots: slots = {}, $$scope } = $$props;
     	validate_slots("App", slots, []);
-    	const writable_props = [];
+    	let { menu = 1 } = $$props;
+    	const writable_props = ["menu"];
 
     	Object.keys($$props).forEach(key => {
     		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<App> was created with unknown prop '${key}'`);
     	});
+
+    	$$self.$$set = $$props => {
+    		if ("menu" in $$props) $$invalidate(0, menu = $$props.menu);
+    	};
 
     	$$self.$capture_state = () => ({
     		ModeSwitcher,
@@ -7241,16 +7260,25 @@ var app = (function () {
     		About,
     		Recent,
     		Projects,
-    		Footer
+    		Footer,
+    		menu
     	});
 
-    	return [];
+    	$$self.$inject_state = $$props => {
+    		if ("menu" in $$props) $$invalidate(0, menu = $$props.menu);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [menu];
     }
 
     class App extends SvelteComponentDev {
     	constructor(options) {
     		super(options);
-    		init(this, options, instance$8, create_fragment$7, safe_not_equal, {});
+    		init(this, options, instance$8, create_fragment$7, safe_not_equal, { menu: 0 });
 
     		dispatch_dev("SvelteRegisterComponent", {
     			component: this,
@@ -7258,6 +7286,14 @@ var app = (function () {
     			options,
     			id: create_fragment$7.name
     		});
+    	}
+
+    	get menu() {
+    		throw new Error("<App>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set menu(value) {
+    		throw new Error("<App>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
     	}
     }
 
