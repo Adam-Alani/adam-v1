@@ -26,7 +26,7 @@
 
 </script>
 <Tailwindcss />
-<ModeSwitcher />
+
 
 
 <main class="h-screen flex flex-col text-bgblue">

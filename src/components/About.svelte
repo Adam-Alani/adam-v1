@@ -27,7 +27,7 @@
 
 </script>
 <Tailwindcss />
-<ModeSwitcher />
+
 <style>
     .cc {
         border-width: 1px;

@@ -24,7 +24,6 @@
 
 </script>
 <Tailwindcss />
-<ModeSwitcher />
 <style>
 </style>
 
