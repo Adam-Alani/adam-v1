@@ -94,7 +94,8 @@
 <style>
     .cc {
         border-width: 1px;
-        background-color: rgba(255, 255, 255, 0.45);
+        background: rgba(255, 255, 255, 0.45);
+        background: linear-gradient(155deg, rgba(255, 255, 255, 0.75) 0%, rgba(198, 192, 192, 0.25) 100%);
     }
 
     .pos1 {

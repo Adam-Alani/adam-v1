@@ -16,7 +16,7 @@
             reset: true,
         });
 
-        sr.reveal('.textreveal');
+        sr.reveal('.textreveal ');
 
         sr.reveal('.boxreveal' , {duration: 1000 });
 
@@ -32,27 +32,31 @@
     .cc {
         border-width: 1px;
         border-color: rgba(255, 255, 255, 0.15) ;
-        background-color: rgba(255, 255, 255, 0.15);
-    }
+        background: rgba(255, 255, 255, 0.15);
+        background: linear-gradient(155deg, rgba(255,255,255,0.30) 0%, rgba(173,173,173,0.15) 40%);
 
+    }
+    html.sr .load-hidden {
+        visibility: hidden;
+    }
 
     .blurred {
         filter: blur(60px);
     }
 
-    .pos1 {
+    .pos1a {
         top: 150%;
 
         right: 30%;
     }
 
-    .pos2 {
+    .pos2a {
         top: 105%;
 
         right: 75%;
     }
 
-    .pos3 {
+    .pos3a {
         top: 132%;
 
         right:90%;
@@ -60,26 +64,26 @@
 </style>
 
 
-<main class="h-screen bg-bgblue flex-col text-whiteblue w-full h-full select-none ">
+<main class="h-screen bg-bgblue flex-col text-whiteblue w-full h-full select-none bg-gradient-to-tl from-shdowblue to-bg-bgblue ">
 
 
-    <div class="absolute h-72 w-72 pos1 text-gray-500  bg-blue-900 rounded-full blurred ">
+    <div class="absolute h-72 w-72 pos1a text-gray-500  bg-blue-900 rounded-full blurred  ">
     </div>
-    <div class="absolute h-96 w-96 pos2 text-gray-500  bg-green-200 opacity-30 rounded-full blurred  ">
+    <div class="absolute h-96 w-96 pos2a text-gray-500  bg-green-200 opacity-30 rounded-full blurred  ">
     </div>
-    <div class="absolute h-96 w-96 pos3 text-gray-500  bg-purple-700 opacity-10  rounded-full blurred  ">
+    <div class="absolute h-96 w-96 pos3a text-gray-500  bg-purple-700 opacity-10  rounded-full blurred  ">
     </div>
 
     <div class=" flex flex-1 flex-row min-h-full justify-around items-center z">
         <div class="hidden xl:flex flex-1 justify-center ">
             <div class="flex pl-8">
-                <h1 class="text-3xl md:text-5xl lg:text-7xl font-extrabold textreveal ">Here's what <br>I can do.</h1>
+                <h1 class="text-3xl md:text-5xl lg:text-7xl font-extrabold textreveal  ">Here's what <br>I can do.</h1>
             </div>
         </div>
 
         <div class="flex-col flex flex-1 items-center justify-center">
             <div class="flex xl:hidden  flex-1 justify-center items-center  ">
-                <h1 class="text-3xl md:text-5xl lg:text-7xl font-extrabold mb-5 textreveal">Here's what I can do.</h1>
+                <h1 class="text-3xl md:text-5xl lg:text-7xl font-extrabold mb-5 textreveal ">Here's what I can do.</h1>
             </div>
             <div class="flex-row flex ">
 
