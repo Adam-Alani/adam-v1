@@ -5,6 +5,7 @@
     import About from './components/About.svelte';
     import Recent from './components/Recent.svelte';
     import Projects from './components/Projects.svelte';
+    import Featured from './components/Featured.svelte'
     import Footer from './components/Footer.svelte';
 
 
@@ -47,6 +48,10 @@
     </div>
     <div id="about">
     <About/>
+    </div>
+
+    <div id="featured">
+        <Featured/>
     </div>
 
     <div id="recent">
